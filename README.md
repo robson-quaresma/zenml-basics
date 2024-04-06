@@ -2,8 +2,7 @@
 
 ## Prerequisites 
 - install zenml server locally and zenml dependency
-> pip install "zenml[server]"
-> pip install zenml
+> pip install zenml "zenml[server]"
 
 ## To create the pipeline
 > python pipeline1.py
