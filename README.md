@@ -9,3 +9,8 @@
 
 ## To visualize on the ZenML Dashboard
 > zenml up
+
+## Useful ZenML commands
+- zenml up -> server start
+- zenml down -> server shutdown
+- zenml show -> open the dashboard
