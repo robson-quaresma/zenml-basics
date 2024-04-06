@@ -14,3 +14,4 @@
 - zenml up -> server start
 - zenml down -> server shutdown
 - zenml show -> open the dashboard
+- zenml status -> show the server status
